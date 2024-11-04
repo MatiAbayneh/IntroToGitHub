@@ -4,11 +4,14 @@
 ## Installation of version control explainer.
 1. Clone the repository:
    ```bash
-   ```git clone https://github.com/your-username/IntroToGitHub.git
+   git clone https://github.com/your-username/IntroToGitHub.git
 2. Navigate to project directory:
-   ```cd description
+   ```bash
+   cd description
 3. Install dependencies:
-   ```npm install
+   ```bash
+   npm install
 ## Usage
 To start the application, run this:
-```npm start
+```bash
+npm start
